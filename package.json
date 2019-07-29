@@ -1,0 +1,15 @@
+{
+	"name": "stefan-helms",
+	"description": "A theme for my blog",
+	"version":"0.1",
+	"engines": {
+		"ghost":">=2.0.0"
+	},
+	"author": {
+		"name": "Stefan Helms",
+		"email": "me@stefanhelms.com"
+	},
+	"config":{
+		"posts_per_page": 3
+	}
+}
